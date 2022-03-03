@@ -1,0 +1,17 @@
+{% assign author = site.data.authors[include.author] %}
+{% assign date = include.date | default: "today" %}
+{% assign read_time = include.read_time | default: false %}
+
+<div class="post-info">
+  {%- if author.url -%}<a href="{{ author.url | relative_url }}" target="_blank" rel="noopener">{%- endif -%}
+    {% if author.avatar  %}
+      <img alt="Author's avatar" src="{{ author.avatar | relative_url }}">
+    {% endif %}
+    <p class="meta" dir="ltr">
+      {% if author.name %}{{ author.name }} - {% endif %}
+      {% assign x = date | date: "%m" | minus: 1 %}
+      {{ date | date_to_long_string: "ordinal" }}
+      {%- if read_time -%}&nbsp;— {% include read-time.html content=content %}{%- endif -%}
+    </p>
+  {%- if author.url -%}</a>{%- endif -%}
+</div>
