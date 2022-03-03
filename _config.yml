@@ -1,4 +1,5 @@
 # SITE CONFIGURATION
+domain: mkinawy.github.io
 baseurl: ""
 url: "https://mkinawy.github.io"
 lang: en 
