@@ -68,6 +68,9 @@
         <script async src='https://www.google-analytics.com/analytics.js'></script>
     {% endif %}
 
+    <!-- Mailchimp -->
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/372be7b8c74070eedc0b57d36/5b336ab7bfa5b7b68594440d8.js");</script>
+
     <!-- seo tags -->
     <meta property="og:image" content="{{ '/' | absolute_url }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ page.feature-img | default: site.header_feature_image }}{% endif %}">
     {% unless page.layout == post %}
