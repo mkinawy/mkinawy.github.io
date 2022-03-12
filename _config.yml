@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
-domain: mkinawy.github.io
+domain: mkinawy.com
 baseurl: ""
-url: "https://mkinawy.github.io"
+url: "https://mkinawy.com"
 lang: en
 languages: ["en", "ar"]
 dir: ltr
