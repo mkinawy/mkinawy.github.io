@@ -24,7 +24,7 @@ dir: rtl
 اللوحينج لوكالي: Serilog كمثال للدوت نت
 مختلف الsinks اللي تخص الserilog
 
-اللوجينج كسيرفس: Azue Application Insights - DataDog
+اللوجينج كسيرفس: Azure Application Insights - DataDog
 
 نطاق التغطية: Frontend vs Backend
 
