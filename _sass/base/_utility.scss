@@ -131,3 +131,18 @@ a.button {
     padding: 0;
   }
 }
+
+.audio_container {
+  width: fit-content;
+  height: fit-content;
+  margin: 16px auto;
+  width: 80%;
+  // height: 200px;
+
+  iframe {
+    //width="560" height="315"
+    // height: 100%;
+    width: 100%;
+    padding: 0;
+  }
+}
