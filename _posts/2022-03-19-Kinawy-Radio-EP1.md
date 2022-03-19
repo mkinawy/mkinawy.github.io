@@ -6,18 +6,12 @@ lang: ar
 dir: rtl
 ---
 
-أهلا بيكم في أول حلقة من بودكاست راديو قناوي … اللي هانتكلم فيه عن كل حاجه تخص البرمجة والمبرمجين
-
-رمضان كريم وكل سنة وانتم طيبين
-
-حلقة اليوم عن اللوجز
+أهلا بيكم في أول حلقة من بودكاست راديو قناوي … اللي هانتكلم فيه عن كل حاجه تخص البرمجة والمبرمجين ... رمضان كريم وكل سنة وانتم طيبين ... حلقة اليوم عن اللوجز، ايه هو اللوجينج وليه واهميته، وازاي تعمل لوجينج فعّال.
 
 <figure class="audio_container">
   <div id="buzzsprout-player-10279186"></div>
   <script src="https://www.buzzsprout.com/1959182/10279186-radio-kinawy-ep-1-logs.js?container_id=buzzsprout-player-10279186&player=small" type="text/javascript" charset="utf-8"></script>
 </figure>
-
-<br />
 
 ملخص الحلقة:
 
