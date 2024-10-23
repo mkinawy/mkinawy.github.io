@@ -32,7 +32,7 @@ Also, I realized that to understand AI better, I needed to know Python very well
 
 ## Learning from Scott Hanselman at .NET Zuid
 
-Yesterday, I traveled far from my home to attend the .NET Zuid event because Scott Hanselman was giving a talk. I met Scott in 2019 at the same event (you can see a picture in [this "Arabic" article](/2019/09/17/أين-اختفت-المبرمجات.html), and I took another picture yesterday too, which I’ll share below). Scott’s talk was really interesting, and as expected, AI took a big bite of that talk.
+Yesterday, I traveled far from my home to attend the .NET Zuid event because Scott Hanselman was giving a talk. I met Scott in 2019 at the same event (you can see a picture at the bottom of [this "Arabic" article](/2019/09/17/أين-اختفت-المبرمجات.html), and I took another picture yesterday too, which I’ll share below). Scott’s talk was really interesting, and as expected, AI took a big bite of that talk.
 
 In the past, people said “software is eating the world”, but now it seems like **AI is eating the world**. I sometimes wonder if we should be excited or worried about that.
 
