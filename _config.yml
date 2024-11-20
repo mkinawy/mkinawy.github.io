@@ -54,6 +54,8 @@ collections:
 # BUILD SETTINGS
 sass:
   style: compressed
+  load_paths:
+    - _sass
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-sitemap]
 exclude:
   [
