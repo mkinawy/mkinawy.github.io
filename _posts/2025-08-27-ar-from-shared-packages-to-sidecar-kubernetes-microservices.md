@@ -30,7 +30,7 @@ dir: rtl
 
 ## فكرة الـ Sidecar
 
-واحدة من أقوى الأفكار اللي طلعت مع Kubernetes هي فكرة الـ sidecar.<br /> 
+واحدة من أقوى الأفكار اللي طلعت مع Kubernetes هي فكرة الـ sidecar.<br> 
 الـ sidecar هو container صغير بيشتغل جنب الـ microservice جوا نفس الـ pod.
 
 الميزة هنا إنك تقدر تحط فيه أي cross-cutting concern (CCC) زي:
