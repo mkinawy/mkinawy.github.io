@@ -25,6 +25,7 @@ dir: rtl
 - تشغيل مئات أو آلاف الـ containers.
 - الـ scaling التلقائي للخدمات.
 - إدارة التوزيع (deployment) والـ rollback بسهولة.
+
 بمعنى آخر، Kubernetes بيوفرلك الأرضية اللي تقدر تبني عليها الـ microservices وتديرها من غير ما تدخل في تفاصيل كتيرة.
 
 ## فكرة الـ Sidecar
@@ -39,6 +40,7 @@ dir: rtl
 - الـ Caching
 - الـ Monitoring
 - الـ Messaging 
+
 بدل ما تحشي الـ microservice بكل الحاجات دي وتكبرها وتعقدها من غير لازمة، ممكن تعزلها في sidecar منفصل، والـ service تفضل مركزة على شغلها الأساسي بس.
 
 ## بناء Cross-Cutting-Concern Image
