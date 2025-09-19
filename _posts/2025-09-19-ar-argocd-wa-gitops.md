@@ -6,7 +6,6 @@ feature-img: "assets/img/feature-img/argocd-sync-flow.png"
 thumbnail: "assets/img/feature-img/argocd-sync-flow.png"
 tags:
   - Kubernetes
-  - k8s
   - DevOps
   - ArgoCD
   - GitOps
